@@ -17,6 +17,7 @@ Python-разработчик, делающий первые шаги в backend
 
 ## Связь со мной
 🕒 Часовой пояс: UTC+4 (Московское время)
+
 📧 [i@madaeni.ru](mailto:i@madaeni.ru)  
 💬 [Telegram @madaeni](https://t.me/madaeni)  
 🌐 [Резюме на hh.ru](https://saratov.hh.ru/resume/0b30c9f8ff0c065a140039ed1f74624b344664)  
